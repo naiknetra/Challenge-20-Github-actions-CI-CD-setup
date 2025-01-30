@@ -26,3 +26,9 @@ THEN I should see those test results on GitHub Action and merge the code
 WHEN I push the code from the develop branch to the main branch
 
 THEN I should see that another GitHub Action triggers and should automatically deploy to Render
+
+
+Walkthrough video link:
+
+https://drive.google.com/file/d/11MpXF4Ig7z0RwFI6hH62HOHX6aOHXRdi/view
+
